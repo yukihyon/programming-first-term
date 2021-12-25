@@ -1,0 +1,3 @@
+C:/Users/Aleksei/Documents/yukihyon/University/Programming/Labs/unit1024_t/cmake-build-debug/CMakeFiles/unit1024_t.dir
+C:/Users/Aleksei/Documents/yukihyon/University/Programming/Labs/unit1024_t/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleksei/Documents/yukihyon/University/Programming/Labs/unit1024_t/cmake-build-debug/CMakeFiles/rebuild_cache.dir
